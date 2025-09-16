@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mnazerke89@gmail.com**
 
-- ⚡ Fun fact **To wake up in the morning, I need at least 10 alarm snoozes. Otherwise, consider me in hibernation mode. 💤⏰**
+- ⚡ Fun fact: **To wake up in the morning, I need at least 10 alarm snoozes. Otherwise, consider me in hibernation mode. 💤⏰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
