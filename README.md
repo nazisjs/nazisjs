@@ -1,5 +1,4 @@
-<h1 align="center">Hi 🔆, I'm Nazerke</h1>
-<h3 align="center">IT student focused on software engineering</h3>
+<h1 align="center">Hi, I'm Nazerke</h1>
 
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me **mnazerke89@gmail.com**
